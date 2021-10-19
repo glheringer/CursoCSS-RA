@@ -30,7 +30,7 @@ bash
 
 - min faz referência  ao tamanho mínimo aceito para a propriedade, assim como o max faz referência  ao tamanho máximo  aceito pela propriedade.
 
-- Ele adapta ao dispositivo, descendo os elementos de acordo com a redução  da resolução. Oque possibilita utilização  do mesmo código  pra infitos dispositivo.
+- Ele adapta ao dispositivo, descendo os elementos de acordo com a redução  da resolução. O que possibilita utilização  do mesmo código  pra infitos dispositivo.
 
 
 Proporção  vw vh:
