@@ -1,4 +1,4 @@
-# CursoCSS-RA
+# Treinamento CSS Rethink Academy
 - 01 • Grid  
 - 02 • Propriedade Min e Max 
 - 03 • Padding / Margin 
