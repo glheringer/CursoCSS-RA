@@ -43,4 +43,4 @@ Movimentação  absoluta em ambos, não se difere ao mudar o tamanho da tela, n�
 
 - Padding: A propriedade usada para gerar espaço  em trono de um elemento, dentro de quaisquer bordas definidas de forma absoluta, ou seja a partir das bordas ele empurrará o conteúdo  para dentro. Usa apenas o conteudo, nao leva em consideração  o site.
 
-- Margin: A propriedade usada para gerar espaço por fora de um elemento. Meche nos conteudos adjacentes. Deve-se usar com cuidado, pois vai superar ou puxar os espaços e conteúdos dos elementos ao adjacentes .
+- Margin: A propriedade usada para gerar espaço por fora de um elemento. Mexe nos conteudos adjacentes. Deve-se usar com cuidado, pois vai superar ou puxar os espaços e conteúdos dos elementos ao adjacentes .
