@@ -44,20 +44,4 @@ Movimentação  absoluta em ambos, não se difere ao mudar o tamanho da tela, n�
 - Padding: A propriedade usada para gerar espaço  em trono de um elemento, dentro de quaisquer bordas definidas de forma absoluta, ou seja a partir das bordas ele empurrará o conteúdo  para dentro. Usa apenas o conteudo, nao leva em consideração  o site.
 
 - Margin: A propriedade usada para gerar espaço por fora de um elemento. Mexe nos conteudos adjacentes. Deve-se usar com cuidado, pois vai superar ou puxar os espaços e conteúdos dos elementos ao adjacentes .
----------------------------------------------------
-### Position 
-Propriedade de layout da página que permite posicionar qualquer elemento (de bloco) com um dos quatro valores: top, right , bottom e left. **O position ignora o PADDING  e o MARGIN** do elemento, por isso é recomendado. Não se importa de sobrepor elementos.
 
-O tipo de position padrão do CSS é o **posistion: static**.
-Tipos de positions: 
-- Static
-Posiciona os elementos em pilha, um seguindo o outro, seguindo o fluxo da página para baixo.
-- Relative
-Posiciona o elemento de forma relativa ao posicionamento anterior, geralmente o estático por ser default.
-- Absolute
-Remove um elemento do fluxo do documento, move o elemento para uma posição específica  em relação ao Body.
-- Fixed
-Muito parecido com o Absoluto, exceto que o posicionamento é relativo à própria janela, então se eu quiser uma posição fixa, ela permanecerá nessa posição mesmo se o usuário rolar a página para baixo. Usado geralmente para elementos de toolbar, que tem que ficar fixo na tela de qualquer forma, mesmo que o conteúdo da página desça.
----------------------------------------------------
-### Float elements
-Permite que o elemento se mova para esquerda ou para a direita e que outro conteúdo flutue ao lado dele em um fluxo normal. (estático).  O clear remove essa flutuação e impede que um elemento seja flutuante.
