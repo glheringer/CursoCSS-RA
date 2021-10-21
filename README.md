@@ -45,3 +45,13 @@ Movimentação  absoluta em ambos, não se difere ao mudar o tamanho da tela, n�
 
 - Margin: A propriedade usada para gerar espaço por fora de um elemento. Mexe nos conteudos adjacentes. Deve-se usar com cuidado, pois vai superar ou puxar os espaços e conteúdos dos elementos ao adjacentes .
 
+---------------------------------------------------
+### Z-index
+O z-index é usado para posicionamento de tela  só funciona em elementos posicionados (fixed , absolute) e itens flexíveis , elementos que são filhos de `display:flex.`. **Funciona para sobreposição, em hierarquia.**
+
+### SASS
+Uma extensão de CSS que adiciona poder e elegância ao CSS básico.
+
+--> Estudar sobre
+
+
